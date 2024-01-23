@@ -1,0 +1,346 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324943492,175,/canonical.html-85,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,175,0,97
+1693324943677,113,/success.txt-86,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,112,0,46
+1693324943682,107,/success.txt-87,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,107,0,51
+1693324949090,1195,/-88,200,OK,,text,true,,223525,1233,0,0,https://qa-travel.travel-loyalty.com/,503,0,239
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+1693324950992,209,/canonical.html-89,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,209,0,115
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324951228,162,/success.txt-90,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,162,0,79
+1693324951228,198,/success.txt-91,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,198,0,113
+1693324951284,184,/canonical.html-92,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,184,0,79
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324951500,109,/success.txt-94,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,109,0,46
+1693324951500,125,/success.txt-93,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,125,0,49
+1693324951548,117,/canonical.html-95,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,117,0,65
+1693324951669,108,/success.txt-96,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,107,0,48
+1693324951669,108,/success.txt-97,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,108,0,48
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324957018,101,/canonical.html-98,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,101,0,47
+1693324957148,115,/success.txt-100,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,115,0,40
+1693324957146,117,/success.txt-99,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,117,0,42
+1693324963801,1156,/index.php/general/index/hotels-101,200,OK,,text,true,,223505,1347,0,0,https://qa-travel.travel-loyalty.com/index.php/general/index/hotels?default_view=VHCID1420613748,552,0,287
+0,0,fonts.gstatic.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324965652,145,/canonical.html-102,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,145,0,69
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+1693324965901,112,/canonical.html-105,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,112,0,49
+1693324965898,124,/success.txt-103,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,124,0,52
+1693324965901,143,/success.txt-104,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,142,0,49
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324966037,114,/success.txt-106,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,113,0,57
+1693324966037,190,/success.txt-107,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,189,0,82
+1693324966097,145,/canonical.html-108,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,145,0,68
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324966288,123,/success.txt-109,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,123,0,59
+1693324966290,177,/success.txt-110,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,177,0,57
+1693324966311,159,/canonical.html-111,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,159,0,61
+1693324966475,111,/success.txt-112,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,110,0,43
+1693324966476,109,/success.txt-113,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,109,0,42
+1693324969745,404,/index.php/ajax/get_hotel_city_list-114,200,OK,,text,true,,974,1338,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Delhi+(India),403,0,255
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324971792,133,/canonical.html-115,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,133,0,61
+1693324971933,103,/success.txt-116,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,103,0,53
+1693324971934,140,/success.txt-117,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,140,0,91
+1693324975865,401,/index.php/ajax/get_hotel_city_list-118,200,OK,,text,true,,1688,1326,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=A,400,0,255
+1693324976874,792,/index.php/ajax/get_hotel_city_list-119,200,OK,,text,true,,1657,1328,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=All,790,0,653
+1693324977981,455,/index.php/ajax/get_hotel_city_list-120,200,OK,,text,true,,1279,1329,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Alla,453,0,291
+1693324978266,425,/index.php/ajax/get_hotel_city_list-121,200,OK,,text,true,,1069,1330,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Allah,423,0,286
+1693324978810,459,/index.php/ajax/get_hotel_city_list-122,200,OK,,text,true,,1069,1331,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Allaha,457,0,277
+1693324980217,410,/index.php/ajax/get_hotel_city_list-123,200,OK,,text,true,,1069,1333,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Allahaba,408,0,270
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693324987169,134,/canonical.html-124,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,134,0,83
+1693324987308,118,/success.txt-125,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,118,0,64
+1693324987308,127,/success.txt-126,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,127,0,64
+1693325012483,570,/index.php/general/pre_hotel_search-127,302,Found,,text,true,,1402,1651,0,0,https://qa-travel.travel-loyalty.com/index.php/general/pre_hotel_search?city=Allahabad+%28India%29&hotel_destination=45811&location=Delhi+%28India%29&radius=1&latitude=&longitude=&countrycode=&search_type=city_search&hotel_checkin=31-08-2023&hotel_checkout=02-09-2023&rooms=1&adult%5B%5D=2&child%5B%5D=0&childAge_1%5B%5D=1&childAge_1%5B%5D=1,570,0,462
+1693325013219,1028,/index.php/hotel/search/9057-128,200,OK,,text,true,,168468,1644,0,0,https://qa-travel.travel-loyalty.com/index.php/hotel/search/9057?city=Allahabad+%28India%29&hotel_destination=45811&location=Delhi+%28India%29&radius=1&latitude=&longitude=&countrycode=&search_type=city_search&hotel_checkin=31-08-2023&hotel_checkout=02-09-2023&rooms=1&adult%5B%5D=2&child%5B%5D=0&childAge_1%5B%5D=1&childAge_1%5B%5D=1,469,0,264
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325014646,138,/canonical.html-129,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,138,0,75
+1693325014808,141,/success.txt-132,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,141,0,66
+1693325014806,144,/success.txt-131,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,144,0,68
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325015521,144,/canonical.html-133,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,144,0,68
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325015708,132,/success.txt-135,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,132,0,75
+1693325015708,132,/success.txt-134,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,132,0,75
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325015839,174,/canonical.html-136,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,174,0,81
+1693325016071,142,/success.txt-138,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,142,0,76
+1693325016071,142,/success.txt-137,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,142,0,76
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325016310,125,/canonical.html-139,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,125,0,76
+1693325016440,108,/success.txt-141,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,108,0,52
+1693325016438,148,/success.txt-140,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,148,0,54
+1693325014753,6015,/index.php/ajax/hotel_list/0-130,200,OK,,text,true,,4138,1902,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/hotel_list/0?booking_source=PTBSID0000000001&search_id=9057&op=load&filters%5Bmin_price%5D=594&filters%5Bmax_price%5D=3734&filters%5Bhn_val%5D=&filters%5Bdealf%5D=false&filters%5Bfree_cancel%5D=false&filters%5Bwifi%5D=false&filters%5Bbreakfast%5D=false&filters%5Bparking%5D=false&filters%5Bswim_pool%5D=false&filters%5Bsort_item%5D=star&filters%5Bsort_type%5D=desc,6014,0,299
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325021217,165,/canonical.html-144,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,165,0,71
+1693325021054,370,/extras/system/template_list/template_v3/images/tt_sprite_2018.png-143,200,OK,,bin,true,,3203,1298,0,0,https://qa-travel.travel-loyalty.com/extras/system/template_list/template_v3/images/tt_sprite_2018.png,370,0,276
+1693325020984,448,/extras/system/template_list/template_v3/images/image_loader.gif-142,200,OK,,bin,true,,16271,1534,0,0,https://qa-travel.travel-loyalty.com/extras/system/template_list/template_v3/images/image_loader.gif,447,0,278
+1693325021388,133,/success.txt-146,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,133,0,41
+1693325021388,133,/success.txt-145,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,133,0,41
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325028113,203,/canonical.html-147,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,203,0,83
+1693325028320,108,/success.txt-148,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,108,0,51
+1693325028321,131,/success.txt-149,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,131,0,65
+1693325200843,1234,/-150,200,OK,,text,true,,223533,1233,0,0,https://qa-travel.travel-loyalty.com/,584,0,311
+0,0,qa-travel.travel-loyalty.com:443,,"Connection reset
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1424,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+1693325202809,191,/canonical.html-151,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,191,0,111
+1693325203052,103,/success.txt-153,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,103,0,50
+1693325203052,103,/success.txt-152,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,103,0,52
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325203209,139,/canonical.html-154,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,139,0,66
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325203413,150,/success.txt-156,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,150,0,59
+1693325203410,158,/success.txt-155,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,158,0,80
+1693325203509,112,/canonical.html-157,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,111,0,48
+1693325203625,104,/success.txt-159,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,104,0,41
+1693325203625,104,/success.txt-158,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,104,0,41
+1693325207583,1139,/index.php/general/index/hotels-160,200,OK,,text,true,,224203,1347,0,0,https://qa-travel.travel-loyalty.com/index.php/general/index/hotels?default_view=VHCID1420613748,534,0,266
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,fonts.gstatic.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+0,0,fonts.gstatic.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2309,0,0,0,null,0,0,0
+1693325208819,177,/canonical.html-161,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,177,0,84
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+1693325209002,132,/success.txt-162,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,132,0,66
+1693325209002,138,/success.txt-163,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,138,0,86
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325209421,125,/canonical.html-164,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,125,0,54
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325209571,141,/success.txt-166,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,141,0,67
+1693325209571,141,/success.txt-165,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,141,0,67
+1693325209608,219,/canonical.html-167,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,219,0,104
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325209851,101,/success.txt-168,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,101,0,52
+1693325209851,132,/success.txt-169,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,132,0,40
+1693325209929,132,/canonical.html-170,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,132,0,59
+1693325210066,115,/success.txt-171,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,115,0,53
+1693325210066,143,/success.txt-172,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,143,0,82
+1693325213932,410,/index.php/ajax/get_hotel_city_list-173,200,OK,,text,true,,974,1342,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=Allahabad+(India),409,0,257
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325215293,185,/canonical.html-174,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,185,0,89
+1693325215491,119,/success.txt-175,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,119,0,62
+1693325215492,128,/success.txt-176,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,128,0,63
+1693325216080,436,/index.php/ajax/get_hotel_city_list-177,200,OK,,text,true,,1271,1329,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=vara,434,0,301
+1693325217036,388,/index.php/ajax/get_hotel_city_list-178,200,OK,,text,true,,1068,1332,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/get_hotel_city_list?term=varanas,387,0,252
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325225373,133,/canonical.html-179,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,133,0,54
+1693325225516,113,/success.txt-181,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,112,0,55
+1693325225513,116,/success.txt-180,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,116,0,58
+1693325231777,387,/index.php/general/pre_hotel_search-182,302,Found,,text,true,,1405,1654,0,0,https://qa-travel.travel-loyalty.com/index.php/general/pre_hotel_search?city=Varanasi+%28India%29&hotel_destination=12298&location=Allahabad+%28India%29&radius=1&latitude=&longitude=&countrycode=&search_type=city_search&hotel_checkin=30-08-2023&hotel_checkout=01-09-2023&rooms=1&adult%5B%5D=2&child%5B%5D=0&childAge_1%5B%5D=1&childAge_1%5B%5D=1,387,0,270
+1693325232298,1032,/index.php/hotel/search/9058-183,200,OK,,text,true,,168463,1647,0,0,https://qa-travel.travel-loyalty.com/index.php/hotel/search/9058?city=Varanasi+%28India%29&hotel_destination=12298&location=Allahabad+%28India%29&radius=1&latitude=&longitude=&countrycode=&search_type=city_search&hotel_checkin=30-08-2023&hotel_checkout=01-09-2023&rooms=1&adult%5B%5D=2&child%5B%5D=0&childAge_1%5B%5D=1&childAge_1%5B%5D=1,453,0,230
+0,0,qa-travel.travel-loyalty.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2309,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325233712,211,/canonical.html-184,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,211,0,155
+1693325233929,132,/success.txt-186,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,132,0,69
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325233931,225,/success.txt-187,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,225,0,97
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Remote host terminated the handshake
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1408,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1482,0,0,0,null,0,0,0
+1693325234233,124,/canonical.html-188,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,124,0,74
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325234443,140,/success.txt-189,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,140,0,62
+1693325234445,140,/success.txt-190,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,139,0,100
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325234531,114,/canonical.html-191,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,114,0,56
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325234727,149,/canonical.html-194,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,149,0,72
+1693325234710,166,/success.txt-193,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,166,0,89
+1693325234709,170,/success.txt-192,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,170,0,90
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325235045,130,/success.txt-195,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,129,0,62
+1693325235128,107,/canonical.html-197,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,106,0,54
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325235127,148,/success.txt-196,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,148,0,54
+0,0,accounts.google.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,maps.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325235287,143,/success.txt-199,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,143,0,65
+1693325235287,172,/success.txt-198,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,172,0,65
+1693325235298,169,/canonical.html-200,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,169,0,54
+1693325235472,134,/success.txt-202,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,134,0,69
+1693325235472,150,/success.txt-201,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,150,0,87
+1693325233863,6728,/index.php/ajax/hotel_list/0-185,200,OK,,text,true,,7883,1905,0,0,https://qa-travel.travel-loyalty.com/index.php/ajax/hotel_list/0?booking_source=PTBSID0000000001&search_id=9058&op=load&filters%5Bmin_price%5D=594&filters%5Bmax_price%5D=3734&filters%5Bhn_val%5D=&filters%5Bdealf%5D=false&filters%5Bfree_cancel%5D=false&filters%5Bwifi%5D=false&filters%5Bbreakfast%5D=false&filters%5Bparking%5D=false&filters%5Bswim_pool%5D=false&filters%5Bsort_item%5D=star&filters%5Bsort_type%5D=desc,6726,0,293
+0,0,www.google-analytics.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325241225,175,/canonical.html-203,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,175,0,94
+1693325241416,166,/success.txt-205,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,166,0,88
+1693325241416,166,/success.txt-204,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,166,0,88
+0,0,b2b.tektravels.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325242075,163,/canonical.html-206,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,163,0,80
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325242304,140,/success.txt-207,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,140,0,52
+1693325242304,147,/success.txt-208,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,147,0,80
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+0,0,api.tbotechnology.in:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1281,0,0,0,null,0,0,0
+1693325242434,173,/canonical.html-209,200,OK,,text,true,,317,298,0,0,http://detectportal.firefox.com/canonical.html,172,0,94
+1693325242611,135,/success.txt-211,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv6,135,0,59
+1693325242610,136,/success.txt-210,200,OK,,text,true,,235,300,0,0,http://detectportal.firefox.com/success.txt?ipv4,136,0,57
